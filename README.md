@@ -5,6 +5,8 @@
 
 3D Pong Game
 
+![alt text](https://jxu093.github.io/img/pong_screenshot.png "Screenshot")
+
 Inspired by "curveball" game but with a twist, CPU is hidden by fog for interesting gameplay.
 
 Arrow keys to control, s to start new game, spacebar to launch ball to begin play, esc to exit.
